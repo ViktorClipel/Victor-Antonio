@@ -43,5 +43,5 @@ ENTRAR.onclick = () => {
 
 const dio_clash = document.querySelector(".dio-clash");
 function teste() {
-    alert("DIONTAN");
+    alert("DIONATAN");
 }
